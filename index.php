@@ -2,4 +2,4 @@
 
 include "stars.php";
 
-echo "Hello World!";
+echo "Hello";
